@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TPPO_MP</string>
+    <string name="button_ok">Ок</string>
+    <string name="button_back">Назад</string>
+    <string name="button_forward">→</string>
+    <string name="button_backward">←</string>
+    <string name="button_add_client">Добавить клиента</string>
+    <string name="button_add_course">Добавить курс</string>
+    <string name="button_check_clients">Просмотреть клиентов</string>
+    <string name="button_check_courses">Просмотреть курсы</string>
+    <string name="button_check_contracts">Просмотреть договоры</string>
+    <string name="button_add_contract">Заключить договор о продаже</string>
+    <string name="add_client_id">ID</string>
+    <string name="add_client_name">ФИО</string>
+    <string name="add_client_phone_num">Номер телефона</string>
+    <string name="add_client_email">e-mail</string>
+    <string name="add_client_directions">Направления</string>
+    <string name="add_client_desired_price">Желаемая стоимость</string>
+    <string name="add_client_training_mode">Режим обучения</string>
+    <string name="add_course_id">ID</string>
+    <string name="add_course_price">Цена</string>
+    <string name="add_course_num_of_students">Количество мест</string>
+    <string name="add_course_search_tags">Метки поиска</string>
+    <string name="add_course_company_name">Название компании</string>
+    <string name="add_course_presenter_name">ФИО ведущего</string>
+    <string name="add_course_list_of_topics">Список тем</string>
+    <string name="add_course_list_of_tasks">Список заданий</string>
+    <string name="add_course_is_have_hints">Подсказки (Есть/Нет)</string>
+    <string name="add_contract_id">ID</string>
+    <string name="add_contract_price">Стоимость</string>
+    <string name="add_contract_client_id">ID клиента</string>
+    <string name="add_contract_course_id">ID курса</string>
+</resources>
